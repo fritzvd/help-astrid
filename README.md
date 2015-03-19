@@ -17,10 +17,15 @@ Right click My Computer and select Properties.
 On the Advanced tab, select Environment Variables, and then edit `JAVA_HOME` to point to where the JDK software is located, for example, `C:\Program Files\Java\jdk1.6.0_02`.
 
 This is what that means:
+
 ![STEP 1](jre1.png)
+
 ![STEP 2](jre2.png)
+
 ![STEP 3](jre3.png)
+
 ![STEP 4](jre4.png)
+
 ![STEP 5](jre5.png)
 
 ## Step 2: Download / Unpack ElasticSearch
